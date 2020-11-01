@@ -1,0 +1,2 @@
+# Beginner-AI
+[C++]Morgana AI is my one of the beginner level C++ programming projects which can be used both for chatting and functional tasks.
